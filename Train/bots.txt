@@ -190,3 +190,6 @@ xkcd_transcriber
 Catebot
 iota4earthbot
 MILBitchBot
+AFexcuses
+AFILinkerBot
+AFSCbot
